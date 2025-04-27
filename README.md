@@ -1,6 +1,6 @@
 # Revisão de código: React Native + Firebase + Expo + NativeWind
 
-Repositório criado com o propósito de servir como menção para a matéria de Desenvolvimento para Dispositivos Móveis II, onde deve ser feita a revisão do código buscando identificar boas práticas utilizadas e sugerir melhorias para otimização, legibilidade e manutenção.
+Repositório criado com o propósito de servir como menção para a matéria de _Desenvolvimento para Dispositivos Móveis II_, onde deve ser feita a revisão do código buscando identificar boas práticas utilizadas e sugerir melhorias para otimização, legibilidade e manutenção.
 
 ## Arquivos
 
